@@ -1,1 +1,1 @@
-alert("Welcome to Divya Personal Website");
+console.log("Hello world");
