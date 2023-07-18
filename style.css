@@ -1,1 +1,143 @@
+:root,body{
+    margin: 0;
+}
+body{
+    width:80%;
+    height:auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: whitesmoke;
+}
+.container{
+    background-color:#C2DEDC ;
+    height: auto;
+    padding: 20px;
+    display: grid;
+}
 
+.header{
+    height:150px;
+    width:auto;
+    background-color: #C2DEDC;
+    
+}
+.circle{
+    border-radius: 100px;
+    padding: 40px;
+
+}
+nav{
+    float:right;
+    padding: 50px;
+    
+}
+a{
+    color: #0B666A;;
+    text-decoration: none;
+    font-size: larger;
+    padding: 5px;
+    font-family: cursive;
+
+    
+}
+
+
+    
+
+.name{
+    text-align: center;
+    padding: 30px;
+    color: #0B666A;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+
+
+a:hover{
+    color: white;
+}
+
+footer{
+    background-color:#C2DEDC;
+    height:50px;
+    width:auto;
+    text-align: center;
+    padding: 25px;
+}
+button{
+    padding: 10px;
+    color: #0B666A;
+    background-color:#68A7AD;
+    border: 1px white soild;
+    border-radius: 10px;
+
+}
+
+button:hover{
+    background-color: white;
+}
+
+.p-home{
+    text-align: center;
+    font-family: cursive;
+    font-size: large;
+    color: #0B666A;
+}
+.pic-left{
+    float:left;
+    padding: 20px;
+    padding-top: 50px;
+
+}
+.pic-right{
+    float:right;
+    padding: 20px;
+    padding-top: 50px;
+   
+    
+}
+.port-div{
+    display: flex;
+    padding: 10px;
+
+}
+.container-div{
+    display: flex;
+    padding: 10px;
+}
+
+.p-about{
+    text-align: justify;
+    padding: 20px;
+    font-family: cursive;
+    font-size: medium;
+    color:#0B666A;
+
+}
+
+.h2-name{
+    text-align: center;
+    font-family: cursive;
+    font-size: larger;
+    color: #0B666A;
+    padding: 10px;
+}
+.h3-name{
+    text-align: center;
+    font-family: cursive;
+    font-size: larger;
+    color: #0B666A;
+    padding: 10px;
+}
+.p-port{
+    text-align: justify;
+    padding: 20px;
+    font-family: cursive;
+    font-size: medium;
+    color:#0B666A;
+}
+.pic-about{
+    padding: 30px 100px;
+
+}
