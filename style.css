@@ -13,6 +13,7 @@ body{
     height: auto;
     padding: 20px;
     display: grid;
+
 }
 
 .header{
@@ -143,4 +144,9 @@ button:hover{
 }
 .right{
     float:right;
+    padding:20px ;
+}
+.left{
+    float: left;
+    padding: 20px ;
 }
