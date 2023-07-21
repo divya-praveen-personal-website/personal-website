@@ -42,6 +42,18 @@ a{
     
 }
 
+.horizontal{
+    width: 50px;
+    align-items: center;
+    border: 7px #7D7463 dotted;
+    border-bottom: none;
+
+}
+
+.active{
+    color:white;
+}
+
 
     
 
@@ -52,7 +64,14 @@ a{
     font-family: cursive;
     font-size: xx-large;
 }
+.h4-name{
+    margin-left: 10%;
+    padding: 10px;
+    color: #0B666A;
+    font-family: cursive;
+    font-size: xx-large;
 
+}
 
 
 a:hover{
@@ -120,14 +139,15 @@ button:hover{
 .h2-name{
     text-align: center;
     font-family: cursive;
-    font-size: larger;
+    font-size: xx-large;
     color: #0B666A;
     padding: 10px;
 }
 .h3-name{
-    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
     font-family: cursive;
-    font-size: larger;
+    font-size:xx-large;
     color: #0B666A;
     padding: 10px;
 }
@@ -149,4 +169,9 @@ button:hover{
 .left{
     float: left;
     padding: 20px ;
+}
+
+.inner-div{
+    margin-left: 5%;
+    margin-top: 3%;
 }
