@@ -1,17 +1,19 @@
-# personal-website
+
+
+
+
+# personal-website <!-- omit in toc -->
 
 Simple website created with HTML, CSS, Javascript
 <br>
 <br>
 
-## Table of Content
-<!-- toc -->
-- General info
-- File Structure
-- Tecnologies
-- Setup
-- status
-<!-- tocstop -->
+## Table of Content <!-- omit in toc -->
+- [General info](#general-info)
+- [File Structure](#file-structure)
+- [Technologies](#technologies)
+- [SetUp](#setup)
+- [Status](#status)
 
 ## General info
 This simple website contains 
@@ -40,9 +42,9 @@ This simple website contains
  ┗ 📜style.css
 ```
 ## Technologies
-#### HTML
-#### CSS
-#### Javascript
+- HTML 
+- CSS  
+- Javascript 
 
 ## SetUp
 
