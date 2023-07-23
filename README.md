@@ -4,14 +4,6 @@ Simple website created with HTML, CSS, Javascript
 <br>
 <br>
 
-## Table of contents
-
-#### General info
-#### File Structure
-#### Technologies
-#### setup
-#### Status
-
 ## General info
 This simple website contains 
  <ul>
