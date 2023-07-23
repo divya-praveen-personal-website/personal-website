@@ -4,6 +4,15 @@ Simple website created with HTML, CSS, Javascript
 <br>
 <br>
 
+## Table of Content
+<!-- toc -->
+- General info
+- File Structure
+- Tecnologies
+- Setup
+- status
+<!-- tocstop -->
+
 ## General info
 This simple website contains 
  <ul>
