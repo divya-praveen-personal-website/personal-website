@@ -13,15 +13,26 @@ body{
     height: auto;
     padding: 20px;
     display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 25% 50% 25%;
+
 
 }
 
-.header{
-    height:150px;
-    width:auto;
-    background-color: #C2DEDC;
-    
+.about-container{
+    background-color:#C2DEDC ;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+
 }
+.about-h1{
+    font-size: xx-large;
+    text-align: center;
+    color: #0B666A;
+    padding: 20px;
+}
+
 .circle{
     border-radius: 100px;
     padding: 40px;
@@ -58,18 +69,29 @@ a{
     
 
 .name{
-    text-align: center;
+    display: grid;
+    grid-template-columns:25% 50% 25%;
+    grid-template-rows: 25% 50% 25%;
+  
     padding: 30px;
     color: #0B666A;
     font-family: cursive;
     font-size: xx-large;
+   
+   
+
+    /* text-align: center;
+    padding: 30px;
+    color: #0B666A;
+    font-family: cursive;
+    font-size: xx-large; */
 }
 .h4-name{
     margin-left: 10%;
     padding: 10px;
     color: #0B666A;
     font-family: cursive;
-    font-size: xx-large;
+    font-size: x-large;
 
 }
 
@@ -163,15 +185,26 @@ button:hover{
 
 }
 .right{
-    float:right;
+    grid-column:1;
+    grid-row:1;
     padding:20px ;
 }
 .left{
-    float: left;
+    grid-column:3;
+    grid-row:3;
     padding: 20px ;
 }
 
 .inner-div{
     margin-left: 5%;
     margin-top: 3%;
+}
+
+.name-inner{
+    display: grid;
+    grid-column:2;
+    grid-row:2;
+    justify-content: center;
+   
+
 }
