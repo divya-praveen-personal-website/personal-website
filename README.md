@@ -21,6 +21,7 @@ This simple website contains
    <li>Home page</li>
    <li>About page</li>
    <li>Portfolio page</li>
+   <li>Contact Page</li>
  </ul>  
 
 ## File Structure
@@ -31,12 +32,16 @@ This simple website contains
  ┃ ┣ 📜girl-image.jpg
  ┃ ┣ 📜java.png
  ┃ ┣ 📜music.png
+ ┃ ┣ 📜thank-you-image.jpg
+ ┃ ┣ 📜web.png   
  ┃ ┣ 📜web.png
- ┃ ┣ 📜work-clip.png
+ ┃ ┣ 📜work-clip.png 
  ┃ ┗ 📜workInProgress.png
  ┣ 📜about.html
+ ┣ 📜contact.html
+ ┣ 📜form-submission.html
  ┣ 📜home.html
- ┣ 📜index.js
+ ┣ 📜index.js 
  ┣ 📜portfolio.html
  ┣ 📜README.md
  ┗ 📜style.css
