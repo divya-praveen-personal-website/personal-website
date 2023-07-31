@@ -80,11 +80,7 @@ a{
    
    
 
-    /* text-align: center;
-    padding: 30px;
-    color: #0B666A;
-    font-family: cursive;
-    font-size: xx-large; */
+  
 }
 .h4-name{
     margin-left: 10%;
@@ -127,18 +123,11 @@ button:hover{
     color: #0B666A;
 }
 .pic-left{
-    float:left;
     padding: 20px;
-    padding-top: 50px;
+    padding-top: 70px;
 
 }
-.pic-right{
-    float:right;
-    padding: 20px;
-    padding-top: 50px;
-   
-    
-}
+
 .port-div{
     display: flex;
     padding: 10px;
